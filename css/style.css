@@ -1,6 +1,6 @@
 @charset "UTF-8";
-body{
-	body {
+
+body {
     background-color: lightblue;
 }
 
@@ -11,5 +11,5 @@ h1 {
 
 p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 30px;
 }
